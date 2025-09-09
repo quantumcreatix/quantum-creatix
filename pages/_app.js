@@ -36,7 +36,7 @@ export default function App({ Component, pageProps }) {
         <meta property="og:url" content="https://quantumcreatix.netlify.app" />
         <meta
           property="og:image"
-          content="https://www.quantumcreatix.com/og-image.jpg"
+          content="https://quantumcreatix.netlify.app/logo.jpg"
         />
         <meta property="og:site_name" content="Quantum Creatix" />
 
