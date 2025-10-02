@@ -5,6 +5,7 @@ export default function App({ Component, pageProps }) {
   return (
     <>
       <Head>
+    <meta name="google-adsense-account" content="ca-pub-8913292731989750">
         <title>
           Quantum Creatix — Empowering Innovation, Inspiring Creativity
         </title>
