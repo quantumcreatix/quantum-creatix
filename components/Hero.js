@@ -135,7 +135,7 @@ export default function Hero() {
                         Product Preview
                       </div>
                       <div className="mt-3 text-xl md:text-2xl font-semibold">
-                        Quantum Studio
+                        Quantum Studio.
                       </div>
                       <div className="text-sm text-gray-400 mt-1">
                         AI-assisted product design suite
